@@ -1,7 +1,9 @@
 # odin-recipes
 
 The Odin Project
+
 Foundations
+
 Project: Recipes
 
 Objective: Put current HTML knowledge to the test by building 
